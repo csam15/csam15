@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Craig Sampson
-- 👀 I’m interested in Robotics/Software Engineering
+- 👀 I’m interested in Robotics Engineering, web/software development
 - 📫 How to reach me ... email - craigsampson15@gmail.com
 
 <!---
